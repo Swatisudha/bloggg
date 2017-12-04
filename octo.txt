@@ -1,0 +1,4 @@
+def x
+2
+end
+puts x()
